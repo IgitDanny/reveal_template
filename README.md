@@ -1,4 +1,4 @@
-# How to use
+# Usage
 
 ```
 ./reveal new "Your presentation name"
